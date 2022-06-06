@@ -9,3 +9,6 @@
 
 ## Research Question: 
 Can we predict visitor type based on their amount of time spent on product-related and infromational pages? 
+
+## Dataset: 
+"Online Shoppers Purchasing Intention Dataset" from UC Irvine’s Machine Learning Repository
